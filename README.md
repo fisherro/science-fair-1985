@@ -4,7 +4,7 @@ This is a transcription of one of my fist C programs. It was created for my high
 
 This version of the code comes from the print outs I'd made for display. There are bugs (some of which are pointed out by penciled annotations), and it seems unlikely that this version ever compiled.
 
-The code was written and (eventually) ran on a Vax 11/780.
+The code was written on and (eventually) ran on a Vax 11/780 running VMS.
 
 The program simulated the system of a _primary_ (i.e. a star or planet), its _planets_ (i.e. planets or satellites), and a spaceship travelling among them. When the ship came within a certain distance of a _planet_, the simulation would then load the system of that _planet_. When the ship got to the "edge" of the current system, it would load the parent system.
 
